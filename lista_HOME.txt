@@ -1,0 +1,25 @@
+total 104
+drwxr-x--- 19 davi davi 4096 Oct 15 11:30 .
+drwxr-xr-x  3 root root 4096 Sep  2 16:30 ..
+-rw-------  1 davi davi 8824 Oct  8 16:56 .bash_history
+-rw-r--r--  1 davi davi  220 Feb 13  2026 .bash_logout
+-rw-r--r--  1 davi davi 3771 Feb 13  2026 .bashrc
+drwx------ 18 davi davi 4096 Oct  8 19:14 .cache
+drwx------ 19 davi davi 4096 Oct  8 19:14 .config
+-rw-rw-r--  1 davi davi   41 Sep  3 14:46 .gitconfig
+drwx------  4 davi davi 4096 Sep  2 16:33 .local
+-rw-r--r--  1 davi davi  807 Feb 13  2026 .profile
+drwx------  2 davi davi 4096 Sep  3 14:34 .ssh
+drwxrwxr-x  5 davi davi 4096 Oct  8 11:22 CEN0336---Davi
+drwxrwxr-x  3 davi davi 4096 Oct 15 12:39 CEN0336_14803811_P1
+drwxrwxr-x  3 davi davi 4096 Oct  8 16:44 CEN0336_2026_14803811_Python05
+drwxr-xr-x  2 davi davi 4096 Sep  2 16:33 Documentos
+drwxr-xr-x  3 davi davi 4096 Oct  8 20:19 Downloads
+drwxr-xr-x  3 davi davi 4096 Sep 16 17:08 Imagens
+drwxr-xr-x  2 davi davi 4096 Sep  2 16:33 Modelos
+drwxr-xr-x  2 davi davi 4096 Sep  2 16:33 Músicas
+drwxr-xr-x  2 davi davi 4096 Sep  2 16:33 Público
+drwxrwxr-x  3 davi davi 4096 Sep 24 21:01 Relatorio-Usos-pr-ticos-de-dicion-rios-em-Python
+drwxr-xr-x  2 davi davi 4096 Sep  2 16:33 Vídeos
+drwx------  8 davi davi 4096 Sep 17 20:09 snap
+drwxr-xr-x  2 davi davi 4096 Sep  2 16:33 Área de trabalho
